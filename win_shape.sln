@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "win_shape", "win_shape\win_shape.csproj", "{23FF3621-DB58-445C-828C-26E7953A33BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23FF3621-DB58-445C-828C-26E7953A33BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23FF3621-DB58-445C-828C-26E7953A33BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23FF3621-DB58-445C-828C-26E7953A33BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23FF3621-DB58-445C-828C-26E7953A33BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C24017B3-B314-4FFB-972F-E4C624001FED}
+	EndGlobalSection
+EndGlobal
